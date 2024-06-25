@@ -1,0 +1,6 @@
+
+Gurobi 11.0.2 (mac64[arm], gurobi_cl) logging started Sun Jun 23 15:49:40 2024
+
+Set parameter LogFile to value "gurobi.log"
+Using license file /Users/christines/opt/miniconda3/envs/pypsa-earth/lib/gurobi.lic
+Restricted license - for non-production use only - expires 2025-11-24
